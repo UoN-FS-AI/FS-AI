@@ -1,5 +1,4 @@
-# FS-AI
-2# FSAI Simulator Setup
+# FS-AI Simulator Setup
 
 ## Computer Specs Required
 - 8 core 2.3Ghz CPU
